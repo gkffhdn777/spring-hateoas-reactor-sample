@@ -9,5 +9,4 @@ public class HateoasApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(HateoasApplication.class, args);
 	}
-
 }
